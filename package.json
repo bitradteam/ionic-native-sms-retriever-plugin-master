@@ -22,7 +22,7 @@
   "engines": [
     {
       "name": "cordova",
-      "version": ">=3.0.0"
+      "version": ">=6.0.0"
     }
   ],
   "author": "Haresh Hanat",
